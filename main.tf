@@ -1,6 +1,6 @@
 terraform {
   // cloud {
-  //   organization = "<MY_ORG_NAME>"         # 생성한 ORG 이름 지정
+  //   organization = "jwsplus"         # 생성한 ORG 이름 지정
   //   hostname     = "app.terraform.io"      # default
 
   //   workspaces {
